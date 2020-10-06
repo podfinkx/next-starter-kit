@@ -1,7 +1,17 @@
 # NextJS Starter with TailwindCSS + Emotion
 This is a Nextjs starter with tailwindcss + emotion for styling your pages and some formatting and linting goodies
 
-## Todo
+## Features
+This starter includes the following features:
+* Next SEO
+* TailwindCSS + Emotion 
+* Google Fonts
+* React Icons
+* eslint + airbnb style plugin (code linting)
+* prettier (code formatting)
+
+
+### Todo
 - [x] Basic setup
 - [x] Tailwind config
 - [x] PostCSS config
