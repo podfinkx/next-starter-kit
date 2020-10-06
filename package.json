@@ -26,6 +26,7 @@
     "eslint-plugin-react-hooks": "^4.1.2",
     "postcss-preset-env": "^6.7.0",
     "prettier": "^2.1.2",
+    "react-icons": "^3.11.0",
     "tailwindcss": "^1.8.10",
     "twin.macro": "^1.10.0"
   }
